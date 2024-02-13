@@ -5,4 +5,4 @@ Unlike other programming languages, Python doesn't need a type specification in 
 
 We can assign an integer to a variable then we can assign a string to the same variable. I think this is the best feature that Python has.
 
-Note: I will add my other files about Python (Numpy, Pandas, ML) later
+Note: I will continue adding my other files about Python Pandas (files about EDA, Unsupervised Learning, Supervised Learning) as well as my course project files about Excel, SQL, Python, PowerBI later
